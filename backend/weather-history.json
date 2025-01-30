@@ -1,0 +1,979 @@
+[
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.18,
+      "feels_like": 26.18,
+      "temp_min": 26.18,
+      "temp_max": 26.18,
+      "pressure": 1009,
+      "humidity": 61,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.99,
+      "deg": 33,
+      "gust": 6.24
+    },
+    "clouds": {
+      "all": 94
+    },
+    "dt": 1738219544,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": -84.0513,
+      "lat": 9.9959
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 18.67,
+      "feels_like": 18.86,
+      "temp_min": 18.6,
+      "temp_max": 19.7,
+      "pressure": 1015,
+      "humidity": 87,
+      "sea_level": 1015,
+      "grnd_level": 844
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.2,
+      "deg": 110
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1738219929,
+    "sys": {
+      "type": 2,
+      "id": 2089985,
+      "country": "CR",
+      "sunrise": 1738238322,
+      "sunset": 1738280414
+    },
+    "timezone": -21600,
+    "id": 3624908,
+    "name": "Ángeles",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.3315,
+      "lat": 15.6747
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.72,
+      "feels_like": 27.86,
+      "temp_min": 26.72,
+      "temp_max": 26.72,
+      "pressure": 1011,
+      "humidity": 62,
+      "sea_level": 1011,
+      "grnd_level": 964
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.48,
+      "deg": 111,
+      "gust": 9.22
+    },
+    "clouds": {
+      "all": 49
+    },
+    "dt": 1738220019,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189725,
+      "sunset": 1738230895
+    },
+    "timezone": 28800,
+    "id": 1727679,
+    "name": "Bamban",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": -84.0513,
+      "lat": 9.9959
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 18.67,
+      "feels_like": 18.86,
+      "temp_min": 18.6,
+      "temp_max": 19.7,
+      "pressure": 1015,
+      "humidity": 87,
+      "sea_level": 1015,
+      "grnd_level": 844
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.2,
+      "deg": 110
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1738219929,
+    "sys": {
+      "type": 2,
+      "id": 2089985,
+      "country": "CR",
+      "sunrise": 1738238322,
+      "sunset": 1738280414
+    },
+    "timezone": -21600,
+    "id": 3624908,
+    "name": "Ángeles",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220183,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220602,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220602,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 26.55,
+      "feels_like": 26.55,
+      "temp_min": 26.55,
+      "temp_max": 26.55,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.96,
+      "deg": 29,
+      "gust": 5.28
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738220602,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 122.5644,
+      "lat": 10.6969
+    },
+    "weather": [
+      {
+        "id": 502,
+        "main": "Rain",
+        "description": "heavy intensity rain",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.6,
+      "feels_like": 33.65,
+      "temp_min": 29.6,
+      "temp_max": 29.6,
+      "pressure": 1006,
+      "humidity": 68,
+      "sea_level": 1006,
+      "grnd_level": 1005
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 8.06,
+      "deg": 40,
+      "gust": 8.72
+    },
+    "rain": {
+      "1h": 8.18
+    },
+    "clouds": {
+      "all": 59
+    },
+    "dt": 1738222054,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738188791,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1711005,
+    "name": "Iloilo City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.6647,
+      "lat": 15.7819
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.62,
+      "feels_like": 24.81,
+      "temp_min": 24.62,
+      "temp_max": 24.62,
+      "pressure": 1010,
+      "humidity": 64,
+      "sea_level": 1010,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.89,
+      "deg": 87,
+      "gust": 9.54
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738222281,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189654,
+      "sunset": 1738230807
+    },
+    "timezone": 28800,
+    "id": 1716401,
+    "name": "Cuyapo",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": -84.0513,
+      "lat": 9.9959
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 18.67,
+      "feels_like": 18.84,
+      "temp_min": 18.6,
+      "temp_max": 19.7,
+      "pressure": 1014,
+      "humidity": 86,
+      "sea_level": 1014,
+      "grnd_level": 843
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 6.17,
+      "deg": 110
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1738222305,
+    "sys": {
+      "type": 2,
+      "id": 2089985,
+      "country": "CR",
+      "sunrise": 1738238322,
+      "sunset": 1738280414
+    },
+    "timezone": -21600,
+    "id": 3624908,
+    "name": "Ángeles",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 122.5644,
+      "lat": 10.6969
+    },
+    "weather": [
+      {
+        "id": 502,
+        "main": "Rain",
+        "description": "heavy intensity rain",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 29.6,
+      "feels_like": 33.65,
+      "temp_min": 29.6,
+      "temp_max": 29.6,
+      "pressure": 1006,
+      "humidity": 68,
+      "sea_level": 1006,
+      "grnd_level": 1005
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 8.06,
+      "deg": 40,
+      "gust": 8.72
+    },
+    "rain": {
+      "1h": 8.18
+    },
+    "clouds": {
+      "all": 59
+    },
+    "dt": 1738222054,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738188791,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1711005,
+    "name": "Iloilo City",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 120.9675,
+      "lat": 15.4869
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.25,
+      "feels_like": 25.58,
+      "temp_min": 25.25,
+      "temp_max": 25.25,
+      "pressure": 1009,
+      "humidity": 67,
+      "sea_level": 1009,
+      "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 5.3,
+      "deg": 37,
+      "gust": 7.41
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1738222754,
+    "sys": {
+      "country": "PH",
+      "sunrise": 1738189558,
+      "sunset": 1738230758
+    },
+    "timezone": 28800,
+    "id": 1721906,
+    "name": "Cabanatuan City",
+    "cod": 200
+  }
+]
